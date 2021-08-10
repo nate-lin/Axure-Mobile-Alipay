@@ -1,37 +1,47 @@
 # AxureUX交互原型--支付宝风控调查问卷
 
-#### 介绍
-AxureUX交互原型--支付宝风控调查问卷
+#### 一、介绍
+- 采用动态面板制作轮播图、母版、交互设计、全局变量等功能。
 
-#### 软件架构
-软件架构说明
+#### 二、在线原型网址
+
+- **AxureUX交互原型--支付宝风控调查问卷（电脑打开）：**   https://lwi8p2.axshare.com
+
+#### 三、效果展示
+
+- **展示目录**
+
+![image-20210810164144180](http://blog-lin1.oss-cn-shenzhen.aliyuncs.com/img/image-20210810164144180.png)
+
+- **1）首页页面**
+
+![image-20210810164219647](http://blog-lin1.oss-cn-shenzhen.aliyuncs.com/img/image-20210810164219647.png)
+
+- **2）我的页面**
+
+![image-20210810164515321](http://blog-lin1.oss-cn-shenzhen.aliyuncs.com/img/image-20210810164515321.png)
+
+- **3）评估问卷调查页面**
+
+  - 问卷入口
+
+    ![image-20210810164651915](http://blog-lin1.oss-cn-shenzhen.aliyuncs.com/img/image-20210810164651915.png)
+
+    
+
+  - 问卷试卷
+
+    ![image-20210810164631306](http://blog-lin1.oss-cn-shenzhen.aliyuncs.com/img/image-20210810164631306.png)
+
+**4）问卷结果**
+
+![image-20210810164752818](http://blog-lin1.oss-cn-shenzhen.aliyuncs.com/img/image-20210810164752818.png)
+
+![image-20210810164813678](http://blog-lin1.oss-cn-shenzhen.aliyuncs.com/img/image-20210810164813678.png)
+
+![image-20210810164831522](http://blog-lin1.oss-cn-shenzhen.aliyuncs.com/img/image-20210810164831522.png)
+
+![image-20210810164846194](http://blog-lin1.oss-cn-shenzhen.aliyuncs.com/img/image-20210810164846194.png)
 
 
-#### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
